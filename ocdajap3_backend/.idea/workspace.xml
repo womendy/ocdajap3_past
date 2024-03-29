@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Developpez-le-back-end-en-utilisant-Java-et-Spring/P3-Full-Stack-portail-locataire" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.RentalApplication.executor": "Debug",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/solange/IdeaProjects/ocdajap3",
     "node.js.detected.package.eslint": "true",
@@ -101,7 +101,7 @@
       <workItem from="1711403180873" duration="1680000" />
       <workItem from="1711557622310" duration="7765000" />
       <workItem from="1711689145658" duration="10674000" />
-      <workItem from="1711746592585" duration="358000" />
+      <workItem from="1711746592585" duration="718000" />
     </task>
     <servers />
   </component>
