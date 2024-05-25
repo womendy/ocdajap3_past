@@ -176,7 +176,7 @@
           "fallbackTo404": false,
           "default": true,
           "databucketID": "",
-          "bodyType": "INLINE",
+          "bodyType": "DATABUCKET",
           "crudKey": "id",
           "callbacks": []
         },
@@ -245,6 +245,25 @@
           "default": false,
           "databucketID": "",
           "bodyType": "INLINE",
+          "crudKey": "id",
+          "callbacks": []
+        },
+        {
+          "uuid": "7723e138-f431-43c8-a379-0f71068a14a1",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": false,
           "crudKey": "id",
           "callbacks": []
         }
@@ -449,7 +468,7 @@
           "fallbackTo404": false,
           "default": true,
           "databucketID": "",
-          "bodyType": "INLINE",
+          "bodyType": "FILE",
           "crudKey": "id",
           "callbacks": []
         },

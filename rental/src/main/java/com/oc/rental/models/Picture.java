@@ -10,9 +10,11 @@ public class Picture {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String fullName;
+    private String location;
 
     @ManyToOne
     private Rental rental;
+
+
 
 }
